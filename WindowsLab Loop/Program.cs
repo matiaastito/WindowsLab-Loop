@@ -16,7 +16,7 @@ namespace WindowsLab_Loop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCaso4());
+            Application.Run(new FrmCaso5());
         }
     }
 }
